@@ -36,3 +36,7 @@ index e4193012..b3d16d27 100644
          <dependencies>
              <dependency>
 ```
+
+```
+$ mvn package 
+```
