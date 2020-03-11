@@ -1,5 +1,5 @@
 ```
-git clone https://github.com/confluentinc/schema-registry.git
+$ git clone https://github.com/confluentinc/schema-registry.git
 ```
 
 ```
@@ -10,6 +10,7 @@ $ git checkout v5.2.0
 
 https://github.com/confluentinc/kafka-connect-hdfs/issues/311
 
+```
 $ git diff pom.xml
 diff --git a/pom.xml b/pom.xml
 index e4193012..b3d16d27 100644
@@ -34,3 +35,4 @@ index e4193012..b3d16d27 100644
      <dependencyManagement>
          <dependencies>
              <dependency>
+```
