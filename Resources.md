@@ -1,1 +1,1 @@
-- [Secured Kafka for Spark Streaming](https://formacionhadoop.com/2019/11/04/kafka-securizado-spark-streaming/)
+- [How to secure Kafka for Spark Streaming (Spanish)](https://formacionhadoop.com/2019/11/04/kafka-securizado-spark-streaming/)
